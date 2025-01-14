@@ -1,0 +1,82 @@
+.footer {
+  background-image: url(".//Assets/Images/bgFooter.png");
+  background-size:cover ;
+  background-position: center;
+  background-repeat: no-repeat; 
+  color: white;
+  padding: 15px 0;
+  text-align: center;
+}
+  
+.footer-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+  
+.footer-info,
+.footer-contact,
+.footer-social {
+  flex: 1 1 300px;
+}
+  
+.footer p {
+  font-size: 16px;
+  margin-bottom: 10px;
+  line-height: 1.6;
+}
+  
+.footer-contact form {
+  display: flex;
+  flex-direction: column;
+}
+  
+.footer-contact input,
+.footer-contact textarea {
+  margin-bottom: 10px;
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+}
+  
+.footer-contact textarea {
+  resize: none;
+  height: 100px;
+}
+  
+.footer-contact button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+  
+.footer-contact button:hover {
+  background-color: #0056b3;
+}
+  
+.footer-social .social-icons {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+  
+.footer-social a {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+}
+  
+.footer-social a:hover {
+  text-decoration: underline;
+}
+  

@@ -1,0 +1,44 @@
+.container{
+    font-size: 15px;
+    text-align: justify;
+    display: flex;
+}
+.content {
+    background-image: url('./Assets/Images/bgAbout.png'); 
+    background-size:cover ;
+    background-position: center;
+    background-repeat: no-repeat; 
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20vh;
+    width: 100wh;
+}
+ 
+#about{
+    text-align: center;
+    font-size: 25px;
+}
+.effect{
+    background-color: #0077b6;
+    color: #ffffff;
+    margin: 10px;
+    padding: 1px;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+}
+
+.effect p {
+    padding: 5px;
+    
+}
+
+.welcome{
+    text-align: center;
+    font-size: 20px;
+}
+
+
+ 
+  

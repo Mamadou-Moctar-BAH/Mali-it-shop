@@ -1,0 +1,37 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: auto;
+  margin: 0;
+}
+  
+/* Adjust logo image */
+.logo-image {
+  width: 200px; 
+  height: auto; 
+  max-height: 100px; 
+}
+  
+.social-links {
+  display: flex;
+  padding: 10px;
+  margin: 10px;
+  gap: 10px;
+}
+  
+.social-button {
+  font-size: 20px;
+  color: #0077b6;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+/* Hover color */ 
+.social-button:hover {
+  color: #00cc66; 
+}
+  
+.social-button i {
+  font-size: 25px;
+}
+  
