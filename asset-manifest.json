@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/repository/static/css/main.41a1e887.css",
+    "main.js": "/repository/static/js/main.45acee6b.js",
+    "static/css/780.61ac7ffa.chunk.css": "/repository/static/css/780.61ac7ffa.chunk.css",
+    "static/js/780.29de6903.chunk.js": "/repository/static/js/780.29de6903.chunk.js",
+    "static/media/Hikvision.png": "/repository/static/media/Hikvision.9358f1180f61bf02570a.png",
+    "static/media/Printer.png": "/repository/static/media/Printer.dbec2ad9267707fcd8a8.png",
+    "static/media/bgAbout.png": "/repository/static/media/bgAbout.cd57a58e86e97424a652.png",
+    "static/media/MacBook.png": "/repository/static/media/MacBook.212a8b8c8125701cb0af.png",
+    "static/media/bgFooter.png": "/repository/static/media/bgFooter.ac3527d13db3b2892775.png",
+    "static/media/Logo.png": "/repository/static/media/Logo.68ae69401ae6be491c35.png",
+    "static/media/Starlink.png": "/repository/static/media/Starlink.31b52a23bf835a8d963f.png",
+    "index.html": "/repository/index.html",
+    "main.41a1e887.css.map": "/repository/static/css/main.41a1e887.css.map",
+    "main.45acee6b.js.map": "/repository/static/js/main.45acee6b.js.map",
+    "780.61ac7ffa.chunk.css.map": "/repository/static/css/780.61ac7ffa.chunk.css.map",
+    "780.29de6903.chunk.js.map": "/repository/static/js/780.29de6903.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41a1e887.css",
+    "static/js/main.45acee6b.js"
+  ]
+}

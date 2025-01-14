@@ -1,0 +1,2 @@
+.services-container{padding:20px;text-align:center}.services-list{grid-gap:20px;display:grid;gap:20px;grid-template-columns:repeat(auto-fill,minmax(250px,1fr))}.service-card{background-color:#f9f9f9;border:1px solid #ddd;border-radius:8px;box-shadow:0 2px 5px #0000001a;padding:20px}.service-card:hover{background-color:#0077b6;color:#fff;transition:1s ease}.service-card h3{font-size:25px;margin-bottom:10px}.service-card p{color:#788585;font-size:15px}.service-card p:hover{color:#fff}
+/*# sourceMappingURL=780.61ac7ffa.chunk.css.map*/
